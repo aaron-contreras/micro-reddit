@@ -1,1 +1,3 @@
-Practicing some data modeling using ActiveRecord.
+# Micro-reddit
+
+Small project practicing some data modeling using ActiveRecord.
